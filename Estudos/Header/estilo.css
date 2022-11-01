@@ -31,5 +31,9 @@ body{
     color: purple;
     transition: 1s;
     font-weight: bold;
-
 }
+    .active{
+        background-color: #414141;
+        padding: 10px;
+        border-radius: 10px;
+    }
